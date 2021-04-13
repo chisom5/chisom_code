@@ -10,8 +10,10 @@ tags:
   - 'Styling'
   - 'Styled Components'
 
-description: '
-  React is a good tool for building flexible and reuseable UI components. However organizing styles in react can be difficult sometimes, I have surf the internet severally looking for a better way of writing my CSS for the past 4 month I picked up react, but I seems to fall back to my default ways i.e writing all my css in the global file (index.css) then using inline styling to alter any changes, as the Project grows in complexity working with my method of styling becomes stressful and not efficient, as it is difficult for me to maintain the code base anymore and the fact that some styles conflict can be hectic to trace'.
+description: >-
+  React is a good tool for building flexible and reuseable UI components. However organizing styles in react can be difficult sometimes, I have surf the internet severally looking for a better way of writing my CSS for the past 4 month I picked up react, but I seems to fall back to my default ways 
+  i.e writing all my css in the global file (index.css) then using inline styling to alter any changes, as the Project grows in complexity working with my method of styling becomes stressful and not efficient, as it is difficult for me to maintain the code base anymore and the fact that some styles conflict can be hectic to trace.
+
 ---
 
 This article was originally published by myself on [Codeburst](https://codeburst.io/styling-in-react-css-in-js-47a68c15a770)
