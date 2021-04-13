@@ -39,5 +39,5 @@ In my free time, I write techincal articles mostly on Web Technologies, Javascri
 ## Communities Involved With
 
 - Community Member at [Facebook Developers Circles:Lagos](https://web.facebook.com/groups/devcReactNigeria/)
-- Comunity Member at [FreeCodeCamp:Lagos](https://web.facebook.com/groups/free.code.camp.lagos)
+- Community Member at [FreeCodeCamp:Lagos](https://web.facebook.com/groups/free.code.camp.lagos)
 
