@@ -1,4 +1,4 @@
-# SHEDDY-XYZ
+# CHISOM_CODE
 
 This repository contains the code for my new personal blog, built with GatsbyJS and Netlify CMS for Content Management.
 
