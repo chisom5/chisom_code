@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://chisom_code.netlify.app/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/posts/year-in-review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/posts/building-custom-modal-component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/posts/creating-a-To-do-list-app</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/posts/js-function-new-keyword</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/posts/styling-in-react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/posts/understanding-typeof-in-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/functional-programming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/java-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/node-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/postgres</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/reusable-component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/styled-component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/styled-components</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/tag/styling</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/category/deployment</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/category/react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/category/review</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chisom_code.netlify.app/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
